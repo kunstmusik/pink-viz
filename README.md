@@ -1,14 +1,14 @@
 # pink-viz
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library for visualizing Pink audio signals.  
 
 ## Usage
 
-FIXME
+Note: This project is currently here for experimental test code and is not actively used or supported.  
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2016 Steven Yi 
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
